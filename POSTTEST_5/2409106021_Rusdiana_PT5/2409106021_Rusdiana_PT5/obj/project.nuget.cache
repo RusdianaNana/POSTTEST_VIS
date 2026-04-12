@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "radrZ8fSV6c=",
+  "success": true,
+  "projectFilePath": "D:\\POSTTEST_VIS\\POSTTEST_5\\2409106021_Rusdiana_PT5\\2409106021_Rusdiana_PT5\\2409106021_Rusdiana_PT5.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\mysqlconnector\\2.5.0\\mysqlconnector.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
